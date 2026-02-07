@@ -1,0 +1,39 @@
+.card {
+  width: 100%;
+  max-width: 480px;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.card h1 {
+  margin: 0 0 1.5rem;
+  font-size: 1.75rem;
+  text-align: center;
+}
+
+.profile {
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  padding: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.profile p {
+  margin: 0.5rem 0;
+  color: #d0e0f0;
+}
+
+.profile strong {
+  display: inline-block;
+  min-width: 100px;
+  color: #a0b8d0;
+}
+
+.note {
+  font-size: 0.9rem;
+  color: #90a0b0;
+  margin: 0;
+}

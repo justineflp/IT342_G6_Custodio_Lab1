@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  min-height: 100vh;
+  color: #e8e8e8;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: #7eb8da;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input, button {
+  font-family: inherit;
+  font-size: 1rem;
+}
+
+button {
+  cursor: pointer;
+}
+
+.error-msg {
+  color: #f08080;
+  font-size: 0.9rem;
+  margin-top: 0.25rem;
+}
