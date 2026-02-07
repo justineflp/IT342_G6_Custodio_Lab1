@@ -1,6 +1,6 @@
 # Task Checklist – IT342 Lab 1 (Session 1)
 
-**Repository:** IT342_G5_<Lastname>_Lab1
+**Repository:** IT342_G5_Custodio_Lab1
 
 ---
 
