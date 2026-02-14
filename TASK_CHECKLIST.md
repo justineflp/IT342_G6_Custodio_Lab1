@@ -19,8 +19,7 @@
 | Web – Dashboard/Profile page | Protected, shows user info | `b90373e` |
 | Web – Logout | Logout button and clear token | `b90373e` |
 | Repo structure | /web, /backend, /mobile, /docs, README | `b90373e` |
-
-**Instructions:** After each `git commit`, run `git log -1 --format="%h"` and paste the hash in the table above for the relevant task(s).
+| Mobile app | Android (Kotlin) – Register, Login, Dashboard, Logout | `44db7ba` |
 
 ---
 
@@ -37,7 +36,6 @@
 
 | Task | Description |
 |------|-------------|
-| Mobile app | Session 2 – not required for this submission |
 | (Add any incomplete features here) | |
 
 ---
@@ -45,5 +43,4 @@
 ## Notes
 
 - Passwords are never stored in plain text (BCrypt).
-- Mobile app is not required in this submission.
 - Repo name: IT342_G5_Custodio_Lab1.
